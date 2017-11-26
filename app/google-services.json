@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "926688172791",
+    "firebase_url": "https://listview-multiitems-ce72a.firebaseio.com",
+    "project_id": "listview-multiitems-ce72a",
+    "storage_bucket": "listview-multiitems-ce72a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:926688172791:android:12bbea36a5ba0056",
+        "android_client_info": {
+          "package_name": "com.tanya.myevents"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "926688172791-4vtvo4oe58b2d43ja9rapv3ib7osdor6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.tanya.myevents",
+            "certificate_hash": "989f6c9fe5c3537879838848da0169f7bbb503c0"
+          }
+        },
+        {
+          "client_id": "926688172791-64lpj9c663s9jb3gr7m667p56gj06i1c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD23dg3Bx2-3dQDd2FK3SgYyb9AkwW6XJo"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "926688172791-64lpj9c663s9jb3gr7m667p56gj06i1c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
